@@ -1,0 +1,16 @@
+:root {
+
+}
+
+
+.style-button {
+    border-radius: 7px;
+    border: 3px solid var(--bg-color-weak-orange);
+    background-color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+     
+}
+
+

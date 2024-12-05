@@ -1,0 +1,18 @@
+:root {
+    /* Las variables CSS ya están definidas desde theme.config.tsx */
+}
+
+.nameuser {
+    font-weight: bold;
+    color: var(--bg-color-white)
+}
+
+.usernameblack {
+    font-weight: bold;
+    color: var(--bg-color-gray)
+}
+
+.perfiluser {
+    font-weight: bold;
+    color: var(--bg-color-weak-orange)
+}
